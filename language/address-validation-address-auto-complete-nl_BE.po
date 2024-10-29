@@ -1,0 +1,757 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ELEX Address Validation & Google Address Auto Complete "
+"Plugin for WooCommerce (Basic)\n"
+"POT-Creation-Date: 2023-05-24 17:06+0530\n"
+"PO-Revision-Date: 2023-05-24 17:07+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: nl_BE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: class-wf-address-autocomplete-validation.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: assests/js/address_validate.js:168 assests/js/address_validate.js:303
+#: includes/class-wf-address-autocomplete-validation-settings.php:521
+msgid "Validation Successful"
+msgstr "Validatie geslaagd"
+
+#: assests/js/address_validate.js:169
+msgid "Update or Proceed with your Original Address."
+msgstr ""
+"Werk uw oorspronkelijke adres bij of ga verder met uw oorspronkelijke adres."
+
+#: assests/js/address_validate.js:171
+msgid "Address Validation Failed."
+msgstr "Adresvalidatie mislukt."
+
+#: assests/js/address_validate.js:180
+msgid ""
+"Address Validation Failed. Please update the address and try again or "
+"proceed to checkout by clicking here."
+msgstr ""
+"Adresvalidatie mislukt. Werk het adres bij en probeer het opnieuw of ga "
+"verder met afrekenen door hier te klikken."
+
+#: assests/js/address_validate.js:304
+msgid "Place Order with Suggested Address"
+msgstr "Bestelling plaatsen met voorgesteld adres"
+
+#: assests/js/address_validate.js:327
+#: includes/class-wf-address-autocomplete-validation-settings.php:575
+msgid "Address Validation Failed"
+msgstr "Adresvalidatie mislukt"
+
+#: assests/js/address_validate.js:328
+msgid "Recheck Address"
+msgstr "Adres opnieuw controleren"
+
+#: assests/js/address_validate.js:374 assests/js/address_validate.js:397
+msgid "Suggestion: "
+msgstr "Suggestie: "
+
+#: assests/js/address_validate.js:416
+msgid "Use Original Address: "
+msgstr "Gebruik origineel adres: "
+
+#: assests/js/address_validate.js:418
+msgid ""
+"There appears to be a problem with the address. Please correct or select one "
+"below."
+msgstr ""
+"Er blijkt een probleem te zijn met het adres. Corrigeer of selecteer er "
+"hieronder een."
+
+#: class-wf-address-autocomplete-validation.php:42
+msgid ""
+"You already have the Premium version installed in your website. For any "
+"issues, kindly raise a ticket via our <a target='_blank' href='https://"
+"elextensions.com/support/'>support page</a>."
+msgstr ""
+"Je hebt de Premium-versie al op je website geïnstalleerd. Voor eventuele "
+"problemen, gelieve een ticket te maken via onze <a target='_blank' "
+"href='https://elextensions.com/support/'>ondersteuningspagina</a>."
+
+#: class-wf-address-autocomplete-validation.php:78
+msgid "Settings"
+msgstr "Instellingen"
+
+#: class-wf-address-autocomplete-validation.php:79
+msgid "Premium Upgrade"
+msgstr "Premium-upgrade"
+
+#: class-wf-address-autocomplete-validation.php:80
+msgid "Support"
+msgstr "Ondersteuning"
+
+#: class-wf-address-autocomplete-validation.php:113
+msgid ""
+"WooCommerce plugin must be active for Address Validation & Google Address "
+"Auto Complete Plugin for WooCommerce(Basic) to work. "
+msgstr ""
+"WooCommerce plugin moet actief zijn om Address Validation &; Google Address "
+"Auto Complete Plugin te laten werken WooCommerce (Basic). "
+
+#: includes/api/easypost-api.php:55
+msgid "- Address not found."
+msgstr "- Adres niet gevonden."
+
+#: includes/api/easypost-api.php:58
+msgid "- House number is invalid."
+msgstr "- Huisnummer is ongeldig."
+
+#: includes/api/easypost-api.php:61
+msgid "- House number is missing."
+msgstr "- Huisnummer ontbreekt."
+
+#: includes/api/easypost-api.php:64
+msgid "- Street is invalid."
+msgstr "- Straat is ongeldig."
+
+#: includes/api/easypost-api.php:67
+msgid "- Invalid state."
+msgstr "- Ongeldige status."
+
+#: includes/api/easypost-api.php:70
+msgid "- Unverifiable city/state."
+msgstr "- Niet-verifieerbare stad/staat."
+
+#: includes/api/easypost-api.php:73
+msgid "- Insufficient/incorrect address data."
+msgstr "- Onvoldoende/onjuiste adresgegevens."
+
+#: includes/api/easypost-api.php:76
+msgid "- Invalid zip."
+msgstr "- Ongeldige rits."
+
+#: includes/api/easypost-api.php:79
+msgid "- Invalid city/state/zip."
+msgstr "- Ongeldige stad/staat/postcode."
+
+#: includes/api/easypost-api.php:82
+msgid "- Street is missing."
+msgstr "- Straat ontbreekt."
+
+#: includes/api/easypost-api.php:85
+msgid "- Street1 is required."
+msgstr "- Street1 is verplicht."
+
+#: includes/class-wf-address-autocomplete-validation-settings.php:86
+msgid "Address Validation & Autocomplete"
+msgstr "Adresvalidatie & Automatisch aanvullen"
+
+#: includes/class-wf-address-autocomplete-validation-settings.php:93
+#: includes/class-wf-address-autocomplete-validation-settings.php:164
+#: includes/class-wf-address-autocomplete-validation-settings.php:593
+#: includes/class-wf-address-autocomplete-validation-settings.php:596
+#: includes/class-wf-address-autocomplete.php:123
+msgid "Address Autocomplete"
+msgstr "Adres Automatisch aanvullen"
+
+#: includes/class-wf-address-autocomplete-validation-settings.php:94
+#: includes/class-wf-address-autocomplete-validation-settings.php:283
+msgid "Address Validation"
+msgstr "Adresvalidatie"
+
+#: includes/class-wf-address-autocomplete-validation-settings.php:95
+msgid "API Credentials"
+msgstr "API-referenties"
+
+#: includes/class-wf-address-autocomplete-validation-settings.php:96
+msgid "Customise"
+msgstr "Aanpassen"
+
+#: includes/class-wf-address-autocomplete-validation-settings.php:97
+msgid "Go Premium!"
+msgstr "Ga voor Premium!"
+
+#: includes/class-wf-address-autocomplete-validation-settings.php:160
+msgid ""
+"<br>Enable the required fields to activate Address Autocomplete and "
+"Validation. Respective API keys are MANDATORY requirements."
+msgstr ""
+"<br>Schakel de vereiste velden in om Automatisch aanvullen en valideren van "
+"adressen te activeren. Respectievelijke API-sleutels zijn VERPLICHTE "
+"vereisten."
+
+#: includes/class-wf-address-autocomplete-validation-settings.php:168
+msgid "Choose the service for Address Autocomplete"
+msgstr "Kies de service voor Adres automatisch aanvullen"
+
+#: includes/class-wf-address-autocomplete-validation-settings.php:173
+#: includes/class-wf-address-autocomplete-validation-settings.php:292
+msgid "None"
+msgstr "Geen"
+
+#: includes/class-wf-address-autocomplete-validation-settings.php:174
+msgid "Google"
+msgstr "Google"
+
+#: includes/class-wf-address-autocomplete-validation-settings.php:175
+msgid "AddressFinder (Australia) [Premium]"
+msgstr "AddressFinder (Australië) [Premium]"
+
+#: includes/class-wf-address-autocomplete-validation-settings.php:181
+msgid "Autocomplete Field"
+msgstr "Veld voor automatisch aanvullen"
+
+#: includes/class-wf-address-autocomplete-validation-settings.php:185
+msgid ""
+"Select an option to choose where to display the autocomplete field. The "
+"default option will be a dedicated autocomplete field for both billing and "
+"shipping address sections. By selecting the option Street 1, the Street "
+"Address field 1 will be enabled with the autocomplete feature."
+msgstr ""
+"Selecteer een optie om te kiezen waar het veld voor automatisch aanvullen "
+"moet worden weergegeven. De standaardoptie is een speciaal veld voor "
+"automatisch aanvullen voor zowel facturerings- als verzendadressecties. Door "
+"de optie Straat 1 te selecteren, wordt het adresveld 1 ingeschakeld met de "
+"functie voor automatisch aanvullen."
+
+#: includes/class-wf-address-autocomplete-validation-settings.php:189
+msgid "Dedicated Field"
+msgstr "Speciaal veld"
+
+#: includes/class-wf-address-autocomplete-validation-settings.php:190
+msgid "Street 1 [Premium]"
+msgstr "Straat 1 [Premium]"
+
+#: includes/class-wf-address-autocomplete-validation-settings.php:195
+msgid "Address Autocomplete (Checkout Page)"
+msgstr "Adres automatisch aanvullen (betaalpagina)"
+
+#: includes/class-wf-address-autocomplete-validation-settings.php:198
+msgid ""
+"Enable<br><span style=\"font-style: italic;font-size:13px;\">Activates "
+"Google Address Autocomplete on the checkout page.</span>"
+msgstr ""
+"Inschakelen<br><span style=\"font-style: italic;font-size:13px;\">Hiermee "
+"activeert u Automatisch aanvullen van Google-adressen op de betaalpagina.</"
+"span>"
+
+#: includes/class-wf-address-autocomplete-validation-settings.php:204
+msgid "Address Autocomplete (Backend Orders)"
+msgstr "Adres automatisch aanvullen (back-endorders)"
+
+#: includes/class-wf-address-autocomplete-validation-settings.php:207
+msgid ""
+"Enable [Premium]<br><span style=\"font-style: italic;font-size:13px;"
+"\">Activates Google Address Autocomplete on the backend order page.</span>"
+msgstr ""
+"[Premium] inschakelen<br><span style=\"font-style: italic;font-size:13px;"
+"\">Hiermee activeert u Google Address Autocomplete op de bestelpagina van de "
+"back-end.</span>"
+
+#: includes/class-wf-address-autocomplete-validation-settings.php:213
+msgid "Address Autocomplete Available to"
+msgstr "Adres automatisch aanvullen beschikbaar voor"
+
+#: includes/class-wf-address-autocomplete-validation-settings.php:217
+msgid "Select the countries"
+msgstr "Selecteer de landen"
+
+#: includes/class-wf-address-autocomplete-validation-settings.php:222
+msgid "All Countries"
+msgstr "Alle landen"
+
+#: includes/class-wf-address-autocomplete-validation-settings.php:223
+#: includes/class-wf-address-autocomplete-validation-settings.php:228
+msgid "Specific Countries"
+msgstr "Specifieke landen"
+
+#: includes/class-wf-address-autocomplete-validation-settings.php:232
+msgid "Select the countries to show the suggestion (Maximum five countries)"
+msgstr ""
+"Selecteer de landen om de suggestie weer te geven (maximaal vijf landen)"
+
+#: includes/class-wf-address-autocomplete-validation-settings.php:240
+msgid "Google API Key"
+msgstr "Google API toets"
+
+#: includes/class-wf-address-autocomplete-validation-settings.php:242
+msgid ""
+"Enter the <a href='https://developers.google.com/places/web-service/"
+"autocomplete'>Google API</a> Key.<br />By default, google address "
+"autocomplete api usage is limited.<br />To increase the usage limit, check "
+"this <a href='https://developers.google.com/places/web-service/usage' "
+"target='_blank'>article from google.</a>"
+msgstr ""
+"Voer de <a href='https://developers.google.com/places/web-service/"
+"autocomplete'>Google API-sleutel</a> in.<br />Standaard is het gebruik van "
+"de api voor automatisch aanvullen van Google-adressen beperkt.<br />Als u de "
+"gebruikslimiet wilt verhogen, raadpleegt u dit <a href='https://developers."
+"google.com/places/web-service/usage' target='_blank'>artikel van Google.</a>"
+
+#: includes/class-wf-address-autocomplete-validation-settings.php:251
+msgid "Editable Address Fields"
+msgstr "Bewerkbare adresvelden"
+
+#: includes/class-wf-address-autocomplete-validation-settings.php:254
+msgid ""
+"Enable<br><span style=\"font-style: italic;font-size:13px;\">To make the "
+"checkout address fields editable when Address Autocomplete is already "
+"enabled.</span>"
+msgstr ""
+"Inschakelen<br><span style=\"font-style: italic;font-size:13px;\">De velden "
+"voor het afrekenadres bewerkbaar maken wanneer Automatisch aanvullen van "
+"adres al is ingeschakeld.</span>"
+
+#: includes/class-wf-address-autocomplete-validation-settings.php:287
+msgid "Choose the service for Address Validation"
+msgstr "Kies de service voor Adresvalidatie"
+
+#: includes/class-wf-address-autocomplete-validation-settings.php:293
+#: includes/class-wf-address-autocomplete-validation-settings.php:372
+msgid "EasyPost"
+msgstr "EasyPost"
+
+#: includes/class-wf-address-autocomplete-validation-settings.php:294
+msgid "UPS [Premium]"
+msgstr "UPS [Premium]"
+
+#: includes/class-wf-address-autocomplete-validation-settings.php:295
+msgid "USPS [Premium]"
+msgstr "USPS [Premium]"
+
+#: includes/class-wf-address-autocomplete-validation-settings.php:296
+msgid "AddressFinder API [Premium]"
+msgstr "AddressFinder API [Premium]"
+
+#: includes/class-wf-address-autocomplete-validation-settings.php:297
+msgid "Country Specific [Premium]"
+msgstr "Landspecifiek [Premium]"
+
+#: includes/class-wf-address-autocomplete-validation-settings.php:302
+msgid "Enforce Address Validation"
+msgstr "Adresvalidatie afdwingen"
+
+#: includes/class-wf-address-autocomplete-validation-settings.php:306
+msgid ""
+"Enable<br><span style=\"font-style: italic;font-size:13px;\">By enabling "
+"this, the user will not be able to proceed with checkout if address "
+"validation fails.<br />This option will be ignored if EasyPost/UPS/USPS/"
+"AddressFinder API server is down.</span>"
+msgstr ""
+"Inschakelen<br><span style=\"font-style: italic;font-size:13px;\">Door dit "
+"in te schakelen, kan de gebruiker niet doorgaan met afrekenen als de "
+"adresvalidatie mislukt.<br />Deze optie wordt genegeerd als de EasyPost/UPS/"
+"USPS/AddressFinder API-server niet beschikbaar is.</span>"
+
+#: includes/class-wf-address-autocomplete-validation-settings.php:311
+msgid "Debug Log"
+msgstr "Debug logboek"
+
+#: includes/class-wf-address-autocomplete-validation-settings.php:314
+msgid ""
+"Enable<br><span style=\"font-style: italic;font-size:13px;\">Find request "
+"and response logs here (wp-content\\uploads\\wc-logs)</span>"
+msgstr ""
+"Inschakelen<br><span style=\"font-style: italic;font-size:13px;\">Vind hier "
+"aanvraag- en reactielogboeken (wp-content\\uploads\\wc-logs)</span>"
+
+#: includes/class-wf-address-autocomplete-validation-settings.php:323
+msgid "Confirm Before Validation"
+msgstr "Bevestig vóór validatie"
+
+#: includes/class-wf-address-autocomplete-validation-settings.php:326
+msgid ""
+"Enable<br><span style=\"font-style: italic;font-size:13px;\"> Enable it if "
+"you want customers to confirm any address before validation.</span>"
+msgstr ""
+"Inschakelen<br><span style=\"font-style: italic;font-size:13px;\"> Schakel "
+"het in als u wilt dat klanten een adres bevestigen voordat ze worden "
+"gevalideerd.</span>"
+
+#: includes/class-wf-address-autocomplete-validation-settings.php:332
+msgid "Confirm Using "
+msgstr "Bevestigen met behulp van "
+
+#: includes/class-wf-address-autocomplete-validation-settings.php:336
+msgid ""
+"Choose either of the options to get a confirmation from customer, if they "
+"want the Entered Address or the Suggested Address on the checkout page."
+msgstr ""
+"Kies een van de opties om een bevestiging van de klant te krijgen, als ze "
+"het ingevoerde adres of het voorgestelde adres op de betaalpagina willen."
+
+#: includes/class-wf-address-autocomplete-validation-settings.php:341
+msgid "A Popup Window"
+msgstr "Een pop-upvenster"
+
+#: includes/class-wf-address-autocomplete-validation-settings.php:342
+msgid "Checkout Page Message"
+msgstr "Bericht op de betaalpagina"
+
+#: includes/class-wf-address-autocomplete-validation-settings.php:347
+msgid "Confirmation Window CSS"
+msgstr "Bevestigingsvenster CSS"
+
+#: includes/class-wf-address-autocomplete-validation-settings.php:352
+msgid ""
+"Modify the CSS to change the design of the address confirmation window. "
+"Leave it without modification to keep the default design. Clear the field to "
+"restore the default."
+msgstr ""
+"Wijzig de CSS om het ontwerp van het adresbevestigingsvenster te wijzigen. "
+"Laat het ongewijzigd om het standaardontwerp te behouden. Wis het veld om de "
+"standaardinstelling te herstellen."
+
+#: includes/class-wf-address-autocomplete-validation-settings.php:374
+msgid ""
+"This address validation method is recommended for most countries. Check the "
+"<a href=\"https://www.easypost.com/docs/address-verification-by-country\" "
+"target=\"_blank\">list of countries supported</a>."
+msgstr ""
+"Deze adresvalidatiemethode wordt aanbevolen voor de meeste landen. Bekijk de "
+"<a href=\"https://www.easypost.com/docs/address-verification-by-country\" "
+"target=\"_blank\">lijst met ondersteunde landen</a>."
+
+#: includes/class-wf-address-autocomplete-validation-settings.php:378
+msgid "EasyPost API Key"
+msgstr "EasyPost API-sleutel"
+
+#: includes/class-wf-address-autocomplete-validation-settings.php:380
+msgid ""
+"Enter the <a href='https://www.easypost.com/pricing.html'>EasyPost API</a> "
+"Key."
+msgstr ""
+"Voer de <a href='https://www.easypost.com/pricing.html'>EasyPost API-"
+"sleutel</a> in."
+
+#: includes/class-wf-address-autocomplete-validation-settings.php:397
+msgid ""
+"<h2>UPS<span style=\"color: green\"><sup>[Premium]</sup></span></h2>\n"
+"\t\t\t\t\t\t\t\tThis address validation method is recommended for United "
+"States and Puerto Rico."
+msgstr ""
+"<h2>UPS<span style=\"color: green\"><sup>[Premium]</sup></span></h2>Deze "
+"adresvalidatiemethode wordt aanbevolen voor de Verenigde Staten en Puerto "
+"Rico."
+
+#: includes/class-wf-address-autocomplete-validation-settings.php:406
+msgid "UPS Username"
+msgstr "UPS Gebruikersnaam"
+
+#: includes/class-wf-address-autocomplete-validation-settings.php:408
+#: includes/class-wf-address-autocomplete-validation-settings.php:416
+#: includes/class-wf-address-autocomplete-validation-settings.php:424
+msgid "Obtained from UPS after getting an account"
+msgstr "Verkregen van UPS na het verkrijgen van een account"
+
+#: includes/class-wf-address-autocomplete-validation-settings.php:414
+msgid "UPS Password"
+msgstr "UPS Wachtwoord"
+
+#: includes/class-wf-address-autocomplete-validation-settings.php:422
+msgid "UPS License Key"
+msgstr "UPS licentiecode"
+
+#: includes/class-wf-address-autocomplete-validation-settings.php:438
+msgid ""
+"<h2>USPS<span style=\"color: green\"><sup>[Premium]</sup></span></h2>\n"
+"\t\t\t\t\t\t\tThis address validation method is recommended for United "
+"States."
+msgstr ""
+"<h2>USPS<span style=\"color: green\"><sup>[Premium]</sup></span></h2>Deze "
+"adresvalidatiemethode wordt aanbevolen voor de Verenigde Staten."
+
+#: includes/class-wf-address-autocomplete-validation-settings.php:446
+msgid "USPS User Id"
+msgstr "USPS-gebruikersnaam"
+
+#: includes/class-wf-address-autocomplete-validation-settings.php:448
+msgid "Obtained from USPS after getting an account"
+msgstr "Verkregen van USPS na het krijgen van een account"
+
+#: includes/class-wf-address-autocomplete-validation-settings.php:462
+msgid ""
+"<h2>AddressFinder API<span style=\"color: green\"><sup>[Premium]</sup></"
+"span></h2>\n"
+"\t\t\t\t\t\t\tThis address validation method is recommended for Australia "
+"and New Zealand."
+msgstr ""
+"<h2>AddressFinder API[<span style=\"color: green\"><sup>Premium]</sup></"
+"span></h2>Deze adresvalidatiemethode wordt aanbevolen voor Australië en "
+"Nieuw-Zeeland."
+
+#: includes/class-wf-address-autocomplete-validation-settings.php:471
+msgid "AddressFinder License Key"
+msgstr "AddressFinder-licentiecode"
+
+#: includes/class-wf-address-autocomplete-validation-settings.php:473
+msgid ""
+"Enter the <a href='https://portal.addressfinder.net/signup/au/"
+"au_free5'>AddressFinder License</a> Key."
+msgstr ""
+"Voer de <a href='https://portal.addressfinder.net/signup/au/"
+"au_free5'>licentiecode AddressFinder in</a> ."
+
+#: includes/class-wf-address-autocomplete-validation-settings.php:477
+msgid "AddressFinder Business Account"
+msgstr "AddressFinder Zakelijk Account"
+
+#: includes/class-wf-address-autocomplete-validation-settings.php:480
+msgid ""
+"To enable the business account, the user needs premium version of address "
+"validation"
+msgstr ""
+"Om het zakelijke account in te schakelen, heeft de gebruiker een "
+"premiumversie van adresvalidatie nodig"
+
+#: includes/class-wf-address-autocomplete-validation-settings.php:502
+msgid "Address Validation [Premium]"
+msgstr "Adresvalidatie [Premium]"
+
+#: includes/class-wf-address-autocomplete-validation-settings.php:508
+msgid "Original Address Label"
+msgstr "Origineel adreslabel"
+
+#: includes/class-wf-address-autocomplete-validation-settings.php:510
+msgid ""
+"Sets the label for the original address in the popup window/checkout page "
+"message. Leave it empty if you want to display the default label."
+msgstr ""
+"Hiermee stelt u het label in voor het oorspronkelijke adres in het pop-"
+"upvenster/het bericht op de betaalpagina. Laat het leeg als u het "
+"standaardlabel wilt weergeven."
+
+#: includes/class-wf-address-autocomplete-validation-settings.php:512
+msgid "Use Original Address"
+msgstr "Origineel adres gebruiken"
+
+#: includes/class-wf-address-autocomplete-validation-settings.php:517
+msgid "Validated Address Label"
+msgstr "Gevalideerd adreslabel"
+
+#: includes/class-wf-address-autocomplete-validation-settings.php:519
+msgid ""
+"Sets the label for the validated address in the popup window. Leave it empty "
+"if you want to display the default label."
+msgstr ""
+"Hiermee stelt u het label in voor het gevalideerde adres in het pop-"
+"upvenster. Laat het leeg als u het standaardlabel wilt weergeven."
+
+#: includes/class-wf-address-autocomplete-validation-settings.php:526
+msgid "Address Suggestion Label"
+msgstr "Label met adressuggestie"
+
+#: includes/class-wf-address-autocomplete-validation-settings.php:528
+msgid ""
+"Sets the label for the suggested address in the checkout page message. Leave "
+"it empty if you want to display the default label."
+msgstr ""
+"Hiermee stelt u het label in voor het voorgestelde adres in het bericht op "
+"de betaalpagina. Laat het leeg als u het standaardlabel wilt weergeven."
+
+#: includes/class-wf-address-autocomplete-validation-settings.php:530
+msgid "Suggestion:"
+msgstr "Suggestie:"
+
+#: includes/class-wf-address-autocomplete-validation-settings.php:535
+msgid "Place Order With Original Address Button Label"
+msgstr "Bestelling plaatsen met origineel adresknoplabel"
+
+#: includes/class-wf-address-autocomplete-validation-settings.php:537
+msgid ""
+"Sets the label for Place Order with Original Address button in the popup "
+"window. Leave it empty if you want to display the default label."
+msgstr ""
+"Hiermee stelt u het label in voor Bestelling plaatsen met de knop Origineel "
+"adres in het pop-upvenster. Laat het leeg als u het standaardlabel wilt "
+"weergeven."
+
+#: includes/class-wf-address-autocomplete-validation-settings.php:539
+msgid "Place Order With Original Address"
+msgstr "Bestelling plaatsen met origineel adres"
+
+#: includes/class-wf-address-autocomplete-validation-settings.php:544
+msgid "Place Order With Suggested Address Button Label"
+msgstr "Bestelling plaatsen met het label van de voorgestelde adresknop"
+
+#: includes/class-wf-address-autocomplete-validation-settings.php:546
+msgid ""
+"Sets the label for Place Order with Suggested Address button in the popup "
+"window. Leave it empty if you want to display the default label."
+msgstr ""
+"Hiermee stelt u het label in voor Bestelling plaatsen met de knop "
+"Voorgesteld adres in het pop-upvenster. Laat het leeg als u het "
+"standaardlabel wilt weergeven."
+
+#: includes/class-wf-address-autocomplete-validation-settings.php:548
+msgid "Place Order With Suggested Address"
+msgstr "Bestelling plaatsen met voorgesteld adres"
+
+#: includes/class-wf-address-autocomplete-validation-settings.php:553
+msgid "Update or Proceed With Your Original Address Text Label"
+msgstr "Uw oorspronkelijke adrestekstlabel bijwerken of ermee doorgaan"
+
+#: includes/class-wf-address-autocomplete-validation-settings.php:555
+msgid ""
+"Sets the label for Update or Proceed With Your Original Address Text in the "
+"popup window when validation fails. Leave it empty if you want to display "
+"the default label."
+msgstr ""
+"Hiermee stelt u het label in voor Bijwerken of Doorgaan met uw "
+"oorspronkelijke adrestekst in het pop-upvenster wanneer de validatie "
+"mislukt. Laat het leeg als u het standaardlabel wilt weergeven."
+
+#: includes/class-wf-address-autocomplete-validation-settings.php:557
+msgid "Update or Proceed with your Original Address"
+msgstr "Uw oorspronkelijke adres bijwerken of doorgaan met"
+
+#: includes/class-wf-address-autocomplete-validation-settings.php:562
+msgid "Customize Button Text In The Checkout Page Message"
+msgstr "Knoptekst aanpassen in het bericht op de betaalpagina"
+
+#: includes/class-wf-address-autocomplete-validation-settings.php:564
+msgid ""
+"Sets the label for the Place Order button in the checkout page message. "
+"Leave it empty if you want to display the default label."
+msgstr ""
+"Hiermee stelt u het label in voor de knop Bestelling plaatsen in het bericht "
+"op de betaalpagina. Laat het leeg als u het standaardlabel wilt weergeven."
+
+#: includes/class-wf-address-autocomplete-validation-settings.php:566
+msgid "Place Order"
+msgstr "Bevestig bestelling"
+
+#: includes/class-wf-address-autocomplete-validation-settings.php:571
+msgid "Address Validation Failed Custom Message"
+msgstr "Adresvalidatie mislukt Aangepast bericht"
+
+#: includes/class-wf-address-autocomplete-validation-settings.php:573
+msgid ""
+"The error message will be displayed when validation fails at the checkout "
+"page. Leave it empty if you want to display the default validation failure "
+"message."
+msgstr ""
+"Het foutbericht wordt weergegeven wanneer de validatie mislukt op de "
+"betaalpagina. Laat deze leeg als u het standaardbericht over een mislukte "
+"validatie wilt weergeven."
+
+#: includes/class-wf-address-autocomplete-validation-settings.php:585
+msgid "Google Autocomplete [Premium]"
+msgstr "Google Automatisch aanvullen [Premium]"
+
+#: includes/class-wf-address-autocomplete-validation-settings.php:591
+msgid "Label Name"
+msgstr "Label Naam"
+
+#: includes/class-wf-address-autocomplete-validation-settings.php:594
+msgid "This controls the Label text in the checkout page"
+msgstr "Hiermee bepaalt u de labeltekst op de betaalpagina"
+
+#: includes/class-wf-address-autocomplete.php:76
+msgid "Residential Delivery Indicator"
+msgstr "Residentiële leveringsindicator"
+
+#: includes/class-wf-address-autocomplete.php:92
+#: includes/class-wf-address-autocomplete.php:107
+#: includes/class-wf-address-autocomplete.php:133
+#: includes/class-wf-address-autocomplete.php:140
+msgctxt "placeholder"
+msgid "Search for address"
+msgstr "Adres zoeken"
+
+#: includes/market.php:142
+msgid "More ELEXtensions plugins you may be interested in..."
+msgstr "Meer ELEXtensions plugins waarin u misschien geïnteresseerd bent..."
+
+#: review_and_troubleshoot_notify/resources/review.php:56
+msgid "Leave Us a Review"
+msgstr "Laat een beoordeling achter"
+
+#: review_and_troubleshoot_notify/resources/review.php:58
+msgid "Hi there! You`ve been using "
+msgstr "Hoi! U hebt "
+
+#: review_and_troubleshoot_notify/resources/review.php:58
+msgid ""
+" plugin for over 7 days now. Hope it helps you run your business smoothly. "
+"Please take a moment to rate us 5 star!"
+msgstr ""
+" plugin voor meer dan 7 dagen nu. Ik hoop dat het u helpt uw bedrijf soepel "
+"te runnen. Neem even de tijd om ons 5 sterren te beoordelen!"
+
+#: review_and_troubleshoot_notify/resources/review.php:83
+#: review_and_troubleshoot_notify/resources/troubleshoot.php:84
+msgid "Never ask again"
+msgstr "Nooit meer vragen"
+
+#: review_and_troubleshoot_notify/resources/review.php:105
+msgid "I will do it later"
+msgstr "Ik zal het later doen"
+
+#: review_and_troubleshoot_notify/resources/review.php:114
+msgid "Sure! I`d love to rate"
+msgstr "Zeker! Ik zou graag beoordelen"
+
+#: review_and_troubleshoot_notify/resources/troubleshoot.php:57
+msgid "Trouble setting up the Plugin?"
+msgstr "Problemen met het instellen van de plug-in?"
+
+#: review_and_troubleshoot_notify/resources/troubleshoot.php:59
+msgid "Need help on setting up "
+msgstr "Hulp nodig bij het instellen "
+
+#: review_and_troubleshoot_notify/resources/troubleshoot.php:59
+msgid ""
+" plugin? You may go through our detailed documentation. For any further "
+"assistance, please don`t hesitate to reach out to our amazing support team."
+msgstr ""
+" .plugin? U kunt onze gedetailleerde documentatie doornemen. Voor verdere "
+"hulp, aarzel dan niet om contact op te nemen met ons geweldige "
+"ondersteuningsteam."
+
+#: review_and_troubleshoot_notify/resources/troubleshoot.php:93
+msgid "Read Documentation"
+msgstr "Documentatie lezen"
+
+#: review_and_troubleshoot_notify/resources/troubleshoot.php:106
+msgid "Contact Support"
+msgstr "Contact opnemen met de klantenservice"
+
+#. Plugin Name of the plugin/theme
+msgid ""
+"ELEX Address Validation & Google Address Auto Complete Plugin for "
+"WooCommerce (Basic)"
+msgstr ""
+"ELEX-adresvalidatie & Google Address Auto Complete-plug-in voor WooCommerce "
+"(Basic)"
+
+#. Plugin URI of the plugin/theme
+msgid ""
+"https://elextensions.com/plugin/elex-address-validation-google-address-"
+"autocomplete-plugin-for-woocommerce-free-version/address-validation-address-"
+"auto-complete-plugin-for-woocommerce/"
+msgstr ""
+"https://elextensions.com/plugin/elex-address-validation-google-address-"
+"autocomplete-plugin-for-woocommerce-free-version/address-validation-address-"
+"auto-complete-plugin-for-woocommerce/"
+
+#. Description of the plugin/theme
+msgid ""
+"Simple and easy to use address validation plugin that will help you to "
+"forget the pain of shipping to invalid addresses."
+msgstr ""
+"Eenvoudige en gemakkelijk te gebruiken plug-in voor adresvalidatie die u zal "
+"helpen de pijn van verzending naar ongeldige adressen te vergeten."
+
+#. Author of the plugin/theme
+msgid "ELEXtensions"
+msgstr "ELEXtensions"
+
+#. Author URI of the plugin/theme
+msgid "https://elextensions.com/"
+msgstr "https://elextensions.com/"
